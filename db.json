@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "price": 55000,
+      "description": "High performance laptop",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.TmdVZty6FfKab0vUeFwvaAHaEm?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "2",
+      "name": "Headphones",
+      "price": 2000,
+      "description": "Noise cancelling headphones",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.vh2FSVY3fjEgpvsPtVhPbwHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "142a",
+      "name": "mobile phones",
+      "price": "18000",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.40yOILhZJMXfBXbio3C6tgHaHh?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3"
+    }
+  ],
+  "orders": [
+    {
+      "id": "fba0",
+      "name": "",
+      "address": "",
+      "product": ""
+    },
+    {
+      "id": "aecd",
+      "name": "",
+      "address": "",
+      "product": ""
+    },
+    {
+      "id": "4e5f",
+      "name": "",
+      "address": "",
+      "product": ""
+    }
+  ]
+}
